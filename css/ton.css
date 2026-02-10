@@ -324,12 +324,7 @@ h4 {
 
   background: linear-gradient(
     120deg,
-    #957eba 15%,
-    #27bcd8 30%,
-    #deafd1 50%,
-    #2e59a9 65%,
-    #4fc3ce 85%,
-    #957eba 90%
+    #CAF3B4 0%, #76E04A 25%, #38B000 50%, #007913 100%
   );
   background-size: 200% auto;
 
